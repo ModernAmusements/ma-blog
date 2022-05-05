@@ -1,9 +1,12 @@
 <template>
-  <header class="w-full top-4 left-0 z-10 sticky">
-    <nav class="flex flex-wrap space-x-4 box">
-      <router-link class="header-link" to="/">Home</router-link>
-      <router-link class="header-link" to="/about">About</router-link>
-      <router-link class="header-link" to="/blog">Blog</router-link>
+  <header class="mx-auto sticky">
+    <nav class="flex box">
+      <div class="logo">modernAmusement</div>
+      <div class="nav-links flex-wrap space-x-4">
+        <router-link class="header-link" to="/">Home</router-link>
+        <router-link class="header-link" to="/about">About</router-link>
+        <router-link class="header-link" to="/blog">Blog</router-link>
+      </div>
     </nav>
   </header>
 </template>
