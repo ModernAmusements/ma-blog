@@ -21,6 +21,12 @@ return [
             }
         ]
     ],
+    'auth' => [
+        'methods' => ['password', 'password-reset'],
+        'trials' => 10000
+    ],
+
+
 
     'kirby-extended' => [
         'vite' => [
