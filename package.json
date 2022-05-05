@@ -34,5 +34,19 @@
     "vite-plugin-vue-layouts": "^0.6.0",
     "vite-plugin-windicss": "^1.7.1",
     "windicss": "^3.4.4"
-  }
+  },
+  "name": "ma-2",
+  "description": "Some notes about the folder structure with some additional comments on important files.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ModernAmusements/ma-blog.git"
+  },
+  "author": "shady tawfik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ModernAmusements/ma-blog/issues"
+  },
+  "homepage": "https://github.com/ModernAmusements/ma-blog#readme"
 }
