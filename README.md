@@ -167,6 +167,12 @@ Vite will generate a hashed version of all assets, including images and fonts sa
 
 ### Deployment
 
+Vercel#
+Vercel CLI#
+Install the Vercel CLI and run vercel to deploy.
+Vercel will detect that you are using Vite and will enable the correct settings for your deployment.
+Your application is deployed! (e.g. vite-vue-template.vercel.app)
+
 > ℹ️ See [ploi-deploy.sh](./scripts/ploi-deploy.sh) for exemplary deployment instructions.
 
 > ℹ️ Some hosting environments require to uncomment `RewriteBase /` in [`.htaccess`](public/.htaccess) to make site links work.
