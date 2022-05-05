@@ -1,0 +1,13 @@
+Title: Kirby + Vue.js Lightkit
+
+----
+
+Customtitle: Mondern Amusments Blog
+
+----
+
+Description: 
+
+----
+
+Thumbnail: 

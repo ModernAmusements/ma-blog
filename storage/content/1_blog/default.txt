@@ -1,0 +1,17 @@
+Title: Blog
+
+----
+
+Text: [{"content":{"text":"<p>Test Blog Article<\/p>"},"id":"4ceea884-2fbe-49d2-99a9-7648584ecc26","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["code-3ma-test-blog-omg.png"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"932f1871-4968-4ca4-a140-cc93c00dcc4a","isHidden":false,"type":"image"}]
+
+----
+
+Customtitle: 
+
+----
+
+Description: 
+
+----
+
+Thumbnail: 
