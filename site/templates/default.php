@@ -12,7 +12,7 @@
   <?= $meta->jsonld() ?>
   <?= $meta->social() ?>
 
-  <link rel="icon" href="/img/favicon.svg" type="image/svg+xml">
+  <!-- <link rel="icon" href="/img/favicon.svg" type="image/svg+xml"> -->
 
   <?= vite()->js() ?>
   <?= vite()->css() ?>

@@ -1,3 +1,4 @@
+@import "normalize.scss";
 @import "core.scss";
 @import "components.scss";
 @import "layout.scss";

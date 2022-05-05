@@ -20,9 +20,9 @@
     </a>
   </nav>
 
-  <div class="mx-auto mt-4 text-center text-sm text-white opacity-40">
+  <!-- <div class="mx-auto mt-4 text-center text-sm text-white opacity-40">
     [{{ props.layout ?? "Default" }} Layout]
-  </div>
+  </div> -->
 </template>
 
 <script setup lang="ts">
